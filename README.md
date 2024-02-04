@@ -11,17 +11,24 @@ git clone https://github.com/abhii30/Gallery.git Tech-Workshop
 * [Video Lectures](#section-last)
 
 ## <a name="section-0"></a> Basic Requirements
-* VS Code     
-  https://code.visualstudio.com/download
-* Git Installation     
+VS Code     
+  https://code.visualstudio.com/download 
+
+Git Installation     
   https://git-scm.com/downloads
   
-  * Verify git installation
+  * Verify Git installation
     
     ```
     git --version
     ```
-  
+Configure Git in any terminal
+
+ ```
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+```
+
 ## <a name="section-1"></a> Git and GitHub
 ## <a name="section-last"></a> Video Lectures
   ### Git and GitHub
