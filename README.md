@@ -38,6 +38,7 @@ Fork the repository
   cd Tech-WorkShop
   git remote add upstream https://github.com/abhii30/Tech-Workshop.git
   ```
+## <a name="section-2"></a> Git and GitHub
 ## <a name="section-last"></a> Video Lectures
   ### Git and GitHub
   - https://youtu.be/apGV9Kg7ics?si=Zb3X02J9pNVR-Z1l (English by Kunal Kushwaha)
